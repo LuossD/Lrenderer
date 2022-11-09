@@ -1,1 +1,1 @@
-/usr/bin/g++  -g   CMakeFiles/lrenderer.dir/src/main.cpp.o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o  -o ../obj/lrenderer 
+/usr/bin/x86_64-linux-gnu-g++-7     CMakeFiles/lrenderer.dir/src/main.cpp.o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o  -o ../obj/lrenderer 

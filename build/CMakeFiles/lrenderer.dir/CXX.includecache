@@ -18,3 +18,11 @@ vector
 tgaimage.h
 /home/hg/LQ/lrenderer/src/tgaimage.h
 
+/home/hg/LQ/lrenderer/src/tgaimage.cpp
+iostream
+-
+cstring
+-
+tgaimage.h
+/home/hg/LQ/lrenderer/src/tgaimage.h
+

@@ -80,28 +80,28 @@ include CMakeFiles/lrenderer.dir/flags.make
 CMakeFiles/lrenderer.dir/src/main.cpp.o: CMakeFiles/lrenderer.dir/flags.make
 CMakeFiles/lrenderer.dir/src/main.cpp.o: ../src/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hg/LQ/lrenderer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lrenderer.dir/src/main.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lrenderer.dir/src/main.cpp.o -c /home/hg/LQ/lrenderer/src/main.cpp
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lrenderer.dir/src/main.cpp.o -c /home/hg/LQ/lrenderer/src/main.cpp
 
 CMakeFiles/lrenderer.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lrenderer.dir/src/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hg/LQ/lrenderer/src/main.cpp > CMakeFiles/lrenderer.dir/src/main.cpp.i
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hg/LQ/lrenderer/src/main.cpp > CMakeFiles/lrenderer.dir/src/main.cpp.i
 
 CMakeFiles/lrenderer.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lrenderer.dir/src/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hg/LQ/lrenderer/src/main.cpp -o CMakeFiles/lrenderer.dir/src/main.cpp.s
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hg/LQ/lrenderer/src/main.cpp -o CMakeFiles/lrenderer.dir/src/main.cpp.s
 
 CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o: CMakeFiles/lrenderer.dir/flags.make
 CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o: ../src/tgaimage.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hg/LQ/lrenderer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o -c /home/hg/LQ/lrenderer/src/tgaimage.cpp
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.o -c /home/hg/LQ/lrenderer/src/tgaimage.cpp
 
 CMakeFiles/lrenderer.dir/src/tgaimage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lrenderer.dir/src/tgaimage.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hg/LQ/lrenderer/src/tgaimage.cpp > CMakeFiles/lrenderer.dir/src/tgaimage.cpp.i
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hg/LQ/lrenderer/src/tgaimage.cpp > CMakeFiles/lrenderer.dir/src/tgaimage.cpp.i
 
 CMakeFiles/lrenderer.dir/src/tgaimage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lrenderer.dir/src/tgaimage.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hg/LQ/lrenderer/src/tgaimage.cpp -o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.s
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hg/LQ/lrenderer/src/tgaimage.cpp -o CMakeFiles/lrenderer.dir/src/tgaimage.cpp.s
 
 # Object files for target lrenderer
 lrenderer_OBJECTS = \
